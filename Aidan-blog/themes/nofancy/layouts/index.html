@@ -10,8 +10,8 @@
 
 	  <ul class="posts">
 		{{ $baseurl := .Site.BaseURL }}
-		{{ range $name, $page := .Site.Pages }}
-		{{ if eq .Type "post" }}
+		{{ range $name, $page := .Site.RegularPages }}
+		
 		<li>
 		  {{ if .Draft }}
 		  DRAFT: 
@@ -39,8 +39,6 @@
 
 		  </p>
 		</li>
-		{{ end }}
-		{{ end }}
 	  </ul>
 	</div>
 	</div>
@@ -48,3 +46,4 @@
 </div>
 
 {{ partial "footer.html" . }}
+{{ end }}

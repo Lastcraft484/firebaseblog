@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Aidan&#39;s Site</title>
+    <link>https://aidanbustosblog.web.app/categories/</link>
+    <description>Recent content in Categories on Aidan&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright (c) 2020-2020, Aidan Bustos; all rights reserved.</copyright>
+    
+	<atom:link href="https://aidanbustosblog.web.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
