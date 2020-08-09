@@ -5,8 +5,8 @@ html {
 }
 
 body {
-	background-color: rgb(249,249,249);
-	color: #484848;
+	background-color: rgb(42, 42, 42);
+	color: #2a2a2a;
 }
 
 .nav-menu {
@@ -157,7 +157,7 @@ body {
 }
 
 .post a:hover {
-	color:#a5473a;
+	color:#c05b4d;
 	text-decoration: underline;
 }
 

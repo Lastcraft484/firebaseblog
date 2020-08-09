@@ -13,7 +13,7 @@ In a [previous post](https://aidanbustosblog.web.app/posts/pinas/) we installed 
 
 ## Making the bracket.
 
-I have access to a 3d printed so I used that to produce a bracket that I used to attach the Pi to the 2.5in drive.  The drive is attached to the plate with m3 screws and the Pi is connected with m2.5 screws. 
+I have access to a 3d printer so I used that to produce a bracket that I used to attach the Pi to the 2.5in drive.  The drive is attached to the plate with m3 screws and the Pi is connected with m2.5 screws. 
 
 ![fusion](https://cdn.discordapp.com/attachments/659897604871553065/741815211253825696/unknown.png)
 Part in Fusion.
