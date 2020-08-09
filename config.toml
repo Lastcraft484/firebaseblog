@@ -1,0 +1,19 @@
+baseurl = "https://aidanbustosblog.web.app/"
+title = "Aidan's Site"
+theme = "nofancy"
+#if not set copyright, default copyright template will be applied
+copyright = "Copyright (c) 2020-2020, Aidan Bustos; all rights reserved."
+
+[params]
+	# See themes/nofancy/static/highlight/styles for available options
+	# i.e. "default", "github", "monokai".
+	highlight="default"
+	
+	# Controls what items are listed in the top nav menu
+	# "none", or "categories"
+	# If you have too many categories to fit in the top nav menu, set this to "none"
+	topmenu="none"
+	
+[author]
+    name = "Aidan Bustos"
+    github = "lastcraft484"
