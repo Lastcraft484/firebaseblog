@@ -6,16 +6,16 @@ html {
 
 body {
 	background-color: #2a2a2a;
-	color: #2a2a2a;
+	color: #bbb;
 }
 
 .nav-menu {
-	border-bottom: 1px solid #2a2a2a;
+	border-bottom: 1px solid #afafaf;
 }
 
 .header {
 	text-align: left;
-	color: #484848;
+	color: #afafaf;
 	margin-bottom: .5em;
 }
 
@@ -25,13 +25,13 @@ body {
 
 .header ul li a {
 	font-weight: bold;
-	color: #484848;
+	color: #afafaf;
 	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .header .site-title {
 	font-weight: bold;
-	color: #484848;
+	color: #afafaf;
 	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -94,13 +94,13 @@ body {
 
 
 .footer-content {
-	border-top: 1px solid #2a2a2a;
+	border-top: 1px solid #505050;
 	font-size: 80%;
-	color: #bbb;
+	color: #505050;
 }
 
 .footer-content a {
-	color: #bbb;
+	color: #505050;
 }
 
 .footer-content ul {
@@ -127,7 +127,7 @@ body {
 
 .post {
 	font-family: proxima-nova,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
-	color:#484848;
+	color:#afafaf;
 	letter-spacing:normal;
 	padding-left: .5em;
 }
