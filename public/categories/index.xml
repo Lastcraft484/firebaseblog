@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Aidan&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2020-2020, Aidan Bustos; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 08 Aug 2020 12:42:02 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 08:44:38 -0400</lastBuildDate>
     
 	<atom:link href="https://aidanbustosblog.web.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Projects</title>
       <link>https://aidanbustosblog.web.app/categories/projects/</link>
-      <pubDate>Tue, 04 Aug 2020 13:24:29 -0400</pubDate>
+      <pubDate>Wed, 23 Sep 2020 08:44:38 -0400</pubDate>
       
       <guid>https://aidanbustosblog.web.app/categories/projects/</guid>
-      <description>test this is my projects page</description>
+      <description></description>
     </item>
     
   </channel>

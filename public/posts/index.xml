@@ -6,10 +6,38 @@
     <description>Recent content in Posts on Aidan&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2020-2020, Aidan Bustos; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 08 Aug 2020 12:42:02 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 08:44:38 -0400</lastBuildDate>
     
 	<atom:link href="https://aidanbustosblog.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Raspberry Pi Nas</title>
+      <link>https://aidanbustosblog.web.app/posts/pinas/</link>
+      <pubDate>Wed, 23 Sep 2020 08:44:38 -0400</pubDate>
+      
+      <guid>https://aidanbustosblog.web.app/posts/pinas/</guid>
+      <description>Raspberry Pi NAS I was wondering what I could do with an old Raspberry pi A+ that I had from when I used a Raspberry Pi to run octoprint. I started trying to look for projects to do with my pi until I came across OpenMediaVault and discovered they have a package for the pi. Here is the steps I followed to get my pi running OpenMediaVault
+Procedure Download Raspberry Pi OS There are 3 versions of Raspberry Pi OS available</description>
+    </item>
+    
+    <item>
+      <title>Discord Bot Ideas</title>
+      <link>https://aidanbustosblog.web.app/posts/discordbotideas/</link>
+      <pubDate>Wed, 16 Sep 2020 09:45:07 -0400</pubDate>
+      
+      <guid>https://aidanbustosblog.web.app/posts/discordbotideas/</guid>
+      <description>add roles with .iam [faction] DONE create faction DONE faction filter .attack {faction} wars, 2 people attacking eachother then who ever wins takes land wars are like risk land that you own gives you materials troops need food check food and materials track materials when you create a faction bot dms you and you respond with name then desc then alliances and color in hex when you join bot dms you asking for name desc and what faction you are aligned with leveling system status DONE recruit, .</description>
+    </item>
+    
+    <item>
+      <title>Discord Docs</title>
+      <link>https://aidanbustosblog.web.app/posts/docs/</link>
+      <pubDate>Fri, 04 Sep 2020 12:42:02 -0400</pubDate>
+      
+      <guid>https://aidanbustosblog.web.app/posts/docs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Raspberry Pi Nas Build</title>
@@ -19,16 +47,6 @@
       <guid>https://aidanbustosblog.web.app/posts/pinasdone/</guid>
       <description>Raspberry Pi NAS Build In a previous post we installed OpenMediaVault on a Raspberry Pi. Now if you are like me you just had everything laying out on a desk. In this post we are going to try and clean up the build and make it look somewhat organized.
 Making the bracket. I have access to a 3d printer so I used that to produce a bracket that I used to attach the Pi to the 2.</description>
-    </item>
-    
-    <item>
-      <title>Raspberry Pi Nas</title>
-      <link>https://aidanbustosblog.web.app/posts/pinas/</link>
-      <pubDate>Tue, 04 Aug 2020 12:42:02 -0400</pubDate>
-      
-      <guid>https://aidanbustosblog.web.app/posts/pinas/</guid>
-      <description>Raspberry Pi NAS I was wondering what I could do with an old Raspberry pi A+ that I had from when I used a Raspberry Pi to run octoprint. I started trying to look for projects to do with my pi until I came across OpenMediaVault and discovered they have a package for the pi. Here is the steps I followed to get my pi running OpenMediaVault
-Procedure Download Raspberry Pi OS There are 3 versions of Raspberry Pi OS available</description>
     </item>
     
   </channel>

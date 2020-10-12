@@ -1,6 +1,6 @@
 ---
 title: "Raspberry Pi Nas"
-date: 2020-08-04T12:42:02-04:00
+date: 2020-09-23T08:44:38-04:00
 draft: false
 type: post
 categories: [projects]
