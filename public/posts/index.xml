@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Aidan&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2020-2020, Aidan Bustos; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 Sep 2020 08:44:38 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 15:21:50 -0400</lastBuildDate>
     
 	<atom:link href="https://aidanbustosblog.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projectile Launcher Information</title>
+      <link>https://aidanbustosblog.web.app/posts/projectilelauncher2020/</link>
+      <pubDate>Thu, 15 Oct 2020 15:21:50 -0400</pubDate>
+      
+      <guid>https://aidanbustosblog.web.app/posts/projectilelauncher2020/</guid>
+      <description>Projectile Launcher Project 2020 Task: Design and build a device to launch a projectile of your choosing to the maximum possible horizontal distance (range), utilizing simple machines and mechanisms to create a compound machine.
+Constraints:
+  Compound machine must consist of at least 2 consecutive simple machines or mechanisms
+  No items may be purchased for the completion of this project - you may only use objects you can find at home.</description>
+    </item>
     
     <item>
       <title>Raspberry Pi Nas</title>

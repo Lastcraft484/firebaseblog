@@ -7,5 +7,5 @@ type: page
 
 # test
 
-this is my projects page
+This is where you can find all of my projects once I add them to the page.
 
