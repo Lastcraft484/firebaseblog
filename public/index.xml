@@ -6,17 +6,26 @@
     <description>Recent content on Aidan&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2020-2020, Aidan Bustos; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Oct 2020 15:21:50 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 18:25:54 -0400</lastBuildDate>
     
 	<atom:link href="https://aidanbustosblog.web.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Projectile Launcher Project 2020</title>
+      <link>https://aidanbustosblog.web.app/posts/projectilelauncherproject2020/</link>
+      <pubDate>Thu, 15 Oct 2020 18:25:54 -0400</pubDate>
+      
+      <guid>https://aidanbustosblog.web.app/posts/projectilelauncherproject2020/</guid>
+      <description>Projectile Launcher Project Resource Plan  3d Printed functional parts Twine/string Marble as projectile. Apple as effort weight 3mm/5mm bolt &amp;amp; nuts crayons to help balance Wood to build structure  Excuse the tables as I have yet to fix the formatting but they are still readable Time management plan    10/15 10/16 10/17 10/18 10/19     Modeling: 20min Modeling: 2hr Modeling: 1hr Filming: 30min Editing: 30min   Organizing Documents: 30min Building: 15min Testing: 5min Testing 20min Pictures:5min   Brain storming: 1hr Brain storming: 2hr Designing 2nd machine Scrapped 2nd machine Testing: 20min   Printing: 11hr Printing: 8hr Printing 6hr Printing 1hr Writing: 45min    Build list  2 m3 bolts&amp;amp;nuts 3d printer and ~300g of filament roll of twine 2 m5 bolts&amp;amp;nuts 2 3.</description>
+    </item>
+    
+    <item>
       <title>Projectile Launcher Information</title>
-      <link>https://aidanbustosblog.web.app/posts/projectilelauncher2020/</link>
+      <link>https://aidanbustosblog.web.app/posts/projectilelauncher2020information/</link>
       <pubDate>Thu, 15 Oct 2020 15:21:50 -0400</pubDate>
       
-      <guid>https://aidanbustosblog.web.app/posts/projectilelauncher2020/</guid>
+      <guid>https://aidanbustosblog.web.app/posts/projectilelauncher2020information/</guid>
       <description>Projectile Launcher Project 2020 Task: Design and build a device to launch a projectile of your choosing to the maximum possible horizontal distance (range), utilizing simple machines and mechanisms to create a compound machine.
 Constraints:
   Compound machine must consist of at least 2 consecutive simple machines or mechanisms
@@ -94,7 +103,7 @@ Making the bracket. I have access to a 3d printer so I used that to produce a br
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aidanbustosblog.web.app/categories/school/</guid>
-      <description>test This is where you can find all of my school projects once I add them to the page.</description>
+      <description>School Projects This is where you can find all of my school projects once I add them to the page.</description>
     </item>
     
   </channel>

@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Aidan&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2020-2020, Aidan Bustos; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 Sep 2020 08:44:38 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 18:25:54 -0400</lastBuildDate>
     
 	<atom:link href="https://aidanbustosblog.web.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>school</title>
+      <link>https://aidanbustosblog.web.app/categories/school/</link>
+      <pubDate>Thu, 15 Oct 2020 18:25:54 -0400</pubDate>
+      
+      <guid>https://aidanbustosblog.web.app/categories/school/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Projects</title>

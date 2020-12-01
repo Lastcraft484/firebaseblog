@@ -3,7 +3,7 @@ title: "Projectile Launcher Information"
 date: 2020-10-15T15:21:50-04:00
 draft: false
 type: post
-categories: [projects]
+categories: [school]
 ---
 
 
@@ -53,4 +53,5 @@ Evidence presented in the interview will be assessed with the [MYP Design Rubric
     
 -   Testing Data (10+ trials, launch range)
 
+You can find the finished project [here](https://aidanbustosblog.web.app/posts/projectilelauncherproject2020/)
 

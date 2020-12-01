@@ -5,7 +5,7 @@ draft: false
 type: page
 ---
 
-# test
+# School Projects
 
 This is where you can find all of my school projects once I add them to the page.
 
